@@ -47,7 +47,7 @@ p {
 }
 
 .intro {
-  width: 25%;
+  width: 50%;
   margin: auto;
 }
 .selfie {
@@ -55,10 +55,10 @@ p {
 }
 
 .top-container {
-  background-color: #EAF6F6;
-  margin-top: 0;
-  position: relative;
-  padding-top: 100px;
+    background-color: #EAF6F6;
+    margin-top: 0;
+    position: relative;
+    padding-top: 100px;
 }
 
 .middle-container {
@@ -139,4 +139,8 @@ p {
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
+}
+
+a.icon-license {
+    margin: 0px;
 }
